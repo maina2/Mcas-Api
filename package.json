@@ -1,0 +1,16 @@
+{
+  "name": "mcas-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "engines": {
+    "node": ">=18.16.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev" : "nodemon server.js"
+  },
+  "author": "Simon Maina",
+  "license": "ISC"
+}
