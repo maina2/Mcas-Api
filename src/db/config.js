@@ -21,7 +21,7 @@ const config = {
                 trustServerCertificate: true,
                 }
     },
-    // jwt_secret: "socialApp"
+    jwt_secret: "App"
 };
 
 export default config;
